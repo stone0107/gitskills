@@ -1,4 +1,4 @@
 # gitskills
 Creating a new branch quick and-& simple.
 Add merge.
-Fix bug.
+Pratic the flow of fix bug.
